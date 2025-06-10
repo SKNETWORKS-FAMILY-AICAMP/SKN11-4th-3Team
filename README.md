@@ -112,6 +112,7 @@
 
 
 ## 5. WBS(수정)
+![image](https://github.com/user-attachments/assets/772721da-fec8-46a9-ab82-50f22a8e44fc)
 
 
 
