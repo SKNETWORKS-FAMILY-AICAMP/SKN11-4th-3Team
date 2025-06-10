@@ -109,13 +109,13 @@
 
 
 
-## 5. WBS(수정)
+## 5. WBS
 ![image](https://github.com/user-attachments/assets/772721da-fec8-46a9-ab82-50f22a8e44fc)
 
 
 
-## 6. 요구사항 명세서(수정)
-
+## 6. 요구사항 명세서
+![](image/requirements.png)
 
 
 ## 7. 화면설계서
@@ -125,7 +125,7 @@
 ## 8. 테스트 계획 및 결과 보고서
 
 ### 📖테스트 계획
-![](image\test_preparing.png)
+![](image/test_preparing.png)
 
 ### 📖테스트 결과
 - TEST01
