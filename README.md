@@ -31,10 +31,10 @@
       <img src="https://github.com/user-attachments/assets/1c830dbd-d5f7-458c-91c2-5828b4f66a46" width="120" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ec4fcead-4222-49ea-87fa-e9272894ded6" width="120" />
+      <img src="https://github.com/user-attachments/assets/80891080-25e5-4a26-975e-21907c3e243f" width="120" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e5b7621f-11e9-42c0-959f-86100ad959ee" width="120" />
+      <img src="https://github.com/user-attachments/assets/752caeb5-d90d-4f93-b511-b1ec8a987ba0" width="120" />
     </td>
   </tr>
   <tr>
@@ -125,19 +125,29 @@
 ## 8. 테스트 계획 및 결과 보고서
 
 ### 📖테스트 계획
-![alt text](image-4.png)
+![](image\test_preparing.png)
 
 ### 📖테스트 결과
 - TEST01
+![](image\result_test01.png)
 
 - TEST02
+![](image\result_test02.png)
 
 - TEST03
+![](image\result_test03.png)
 
 - TEST04
+![](image\result_test04.png)
 
-
-
+- TEST05
+  <table>
+  <tr>
+    <td>
+      <img src="image\result_test05.png" alt="사진2" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+  </table>
 
 ## 9. 수행결과(테스트/시연 페이지)
 
