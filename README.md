@@ -104,8 +104,8 @@
 | **Collaboration Tool** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 4. 시스템 아키텍처
-
+## 4. 시스템 구성도
+![image](https://github.com/user-attachments/assets/bdb62f74-2dc7-4971-954e-99ccd5da33a4)
 
 
 
@@ -119,6 +119,7 @@
 
 
 ## 7. 화면설계서
+
 
 
 ## 8. 테스트 계획 및 결과 보고서
