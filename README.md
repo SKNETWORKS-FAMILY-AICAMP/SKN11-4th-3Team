@@ -125,7 +125,7 @@
 ## 8. 테스트 계획 및 결과 보고서
 
 ### 📖테스트 계획
-![alt text](image-3.png)
+![alt text](image-4.png)
 
 ### 📖테스트 결과
 - TEST01
