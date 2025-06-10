@@ -119,6 +119,16 @@
 
 
 ## 7. 화면설계서
+![화면정의서 (1)-1](https://github.com/user-attachments/assets/031a81cb-cd1e-4320-96ba-e739ff0c5ff4)
+![화면정의서 (1)-2](https://github.com/user-attachments/assets/ac1009ff-c2aa-4da7-9e26-275ffa4f932b)
+![화면정의서 (1)-3](https://github.com/user-attachments/assets/7e27fd02-143d-48a6-9387-bd3aefb4a98b)
+![화면정의서 (1)-4](https://github.com/user-attachments/assets/a0965bb6-2a89-4346-8230-e7c7ba938c34)
+![화면정의서 (1)-5](https://github.com/user-attachments/assets/28b23524-0b2b-47d7-ba83-4211e2771ec9)
+![화면정의서 (1)-6](https://github.com/user-attachments/assets/676c6b02-03c1-4ebc-b2d9-e7fab78d129c)
+![화면정의서 (1)-7](https://github.com/user-attachments/assets/f43f4e10-98dc-4753-b24b-8d4eb0df386f)
+
+
+
 
 
 
