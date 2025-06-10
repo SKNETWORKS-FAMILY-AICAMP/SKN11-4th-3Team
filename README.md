@@ -109,7 +109,7 @@
 
 
 
-## 5. WBS(수정)
+## 5. WBS
 ![image](https://github.com/user-attachments/assets/772721da-fec8-46a9-ab82-50f22a8e44fc)
 
 
@@ -123,7 +123,8 @@
 
 
 ## 8. 테스트 계획 및 결과 보고서
-
+https://huggingface.co/minjeongHuggingFace/exaone-bang-merged
+파인튜닝 된 모델 
 
 
 ## 9. 수행결과(테스트/시연 페이지)
