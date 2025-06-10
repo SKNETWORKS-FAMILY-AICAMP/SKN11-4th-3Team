@@ -18,17 +18,17 @@
 
 ## 1. 팀 소개
 ### 팀명 : BoardNavi
-- Board + Navi의 합성어로, “보드게임 세계의 길잡이” 라는 뜻으로, 사용자가 보드게임이라는 낯선 세계에서 길을 잃지 않도록 규칙과 추천을 안내해주는 팀이라는 의미를 담고 있습니다. 
+- Board + Navi의 합성어로, “보드게임 세계의 길잡이” 라는 뜻으로, 사용자가 보드게임이라는 낯선 세계에서 길을 잃지 않도록 규칙과 추천을 안내해주는 팀이라는 의미를 담고 있습니다.
 
 
 ### 👤 팀원
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f85c63c4-9587-430a-875e-22160c64e311" width="120" />
+      <img src="https://github.com/user-attachments/assets/238c9b42-e99f-4dad-acb1-c2a9a6720165" width="120" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/074a0877-1279-4d80-83bc-98d4eac64ee0" width="120" />
+      <img src="https://github.com/user-attachments/assets/1c830dbd-d5f7-458c-91c2-5828b4f66a46" width="120" />
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ec4fcead-4222-49ea-87fa-e9272894ded6" width="120" />
