@@ -20,7 +20,6 @@
 ### 팀명 : BoardNavi
 - Board + Navi의 합성어로, “보드게임 세계의 길잡이” 라는 뜻으로, 사용자가 보드게임이라는 낯선 세계에서 길을 잃지 않도록 규칙과 추천을 안내해주는 팀이라는 의미를 담고 있습니다.
 
-
 ### 👤 팀원
 <table>
   <tr>
@@ -31,10 +30,10 @@
       <img src="https://github.com/user-attachments/assets/1c830dbd-d5f7-458c-91c2-5828b4f66a46" width="120" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ec4fcead-4222-49ea-87fa-e9272894ded6" width="120" />
+      <img src="https://github.com/user-attachments/assets/80891080-25e5-4a26-975e-21907c3e243f" width="120" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e5b7621f-11e9-42c0-959f-86100ad959ee" width="120" />
+      <img src="https://github.com/user-attachments/assets/752caeb5-d90d-4f93-b511-b1ec8a987ba0" width="120" />
     </td>
   </tr>
   <tr>
