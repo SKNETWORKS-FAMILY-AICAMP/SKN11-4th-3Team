@@ -129,22 +129,22 @@
 
 ### 📖테스트 결과
 - TEST01
-![](image\result_test01.png)
+![](image/result_test01.png)
 
 - TEST02
-![](image\result_test02.png)
+![](image/result_test02.png)
 
 - TEST03
-![](image\result_test03.png)
+![](image/result_test03.png)
 
 - TEST04
-![](image\result_test04.png)
+![](image/result_test04.png)
 
 - TEST05
   <table>
   <tr>
     <td>
-      <img src="image\result_test05.png" alt="사진2" style="width: 100%; height: auto;">
+      <img src="image/result_test05.png" alt="사진2" style="width: 100%; height: auto;">
     </td>
   </tr>
   </table>
