@@ -100,12 +100,13 @@
 | **Embedding Model** | ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) |
 | **Vector DB**       | ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge) |
 | **LLM Model**       | ![gpt-3.5-turbo_fine_tune](https://img.shields.io/badge/gpt--3.5-4B91FF?style=for-the-badge&logo=openai&logoColor=white)<br> <img src="https://img.shields.io/badge/EXAONE-A50034?style=for-the-badge&logo=LG&logoColor=white"> |
-|   **Framework**   | ![Django](https://camo.githubusercontent.com/4c4a57a11a83f99eafb6eaaaaf65ea43e0fc446fccbf8533aac7e9be1067aaf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666f722d7468652d6261646765266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465)                  |
+|   **Framework**   | ![Django](https://camo.githubusercontent.com/4c4a57a11a83f99eafb6eaaaaf65ea43e0fc446fccbf8533aac7e9be1067aaf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666f722d7468652d6261646765266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465)  <br> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">                   |
 | **Collaboration Tool** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 4. 시스템 구성도
-![image](https://github.com/user-attachments/assets/bdb62f74-2dc7-4971-954e-99ccd5da33a4)
+![4th (1)](https://github.com/user-attachments/assets/6ce0ae39-bf5b-4d25-b15b-421bd867a769)
+
 
 
 
@@ -120,13 +121,13 @@
 
 
 ## 7. 화면설계서
-![화면정의서 (1)-1](https://github.com/user-attachments/assets/031a81cb-cd1e-4320-96ba-e739ff0c5ff4)
-![화면정의서 (1)-2](https://github.com/user-attachments/assets/ac1009ff-c2aa-4da7-9e26-275ffa4f932b)
-![화면정의서 (1)-3](https://github.com/user-attachments/assets/7e27fd02-143d-48a6-9387-bd3aefb4a98b)
-![화면정의서 (1)-4](https://github.com/user-attachments/assets/a0965bb6-2a89-4346-8230-e7c7ba938c34)
-![화면정의서 (1)-5](https://github.com/user-attachments/assets/28b23524-0b2b-47d7-ba83-4211e2771ec9)
-![화면정의서 (1)-6](https://github.com/user-attachments/assets/676c6b02-03c1-4ebc-b2d9-e7fab78d129c)
-![화면정의서 (1)-7](https://github.com/user-attachments/assets/f43f4e10-98dc-4753-b24b-8d4eb0df386f)
+화면정의서 (1)-1](https://github.com/user-attachments/assets/985401b6-8dba-4b16-a329-573363ba406a)
+![화면정의서 (1)-2](https://github.com/user-attachments/assets/0fe6f7dd-7023-47d0-9c8d-51467b61a4f9)
+![화면정의서 (1)-3](https://github.com/user-attachments/assets/b7451c7c-bd54-456f-8844-d56084bf4fda)
+![화면정의서 (1)-4](https://github.com/user-attachments/assets/3faceeff-1067-4b61-8a85-ae5efe9aaecb)
+![화면정의서 (1)-5](https://github.com/user-attachments/assets/7517e3bd-5045-402f-ab50-b107f5ddaecf)
+![![화면정의서 (1)-6](https://github.com/user-attachments/assets/68493f53-7d4c-48b1-994f-e0e8210282f0)
+![화면정의서 (1)-7](https://github.com/user-attachments/assets/c2cabd56-6ec6-42d0-a786-9f5bb0803bd2)
 
 
 
