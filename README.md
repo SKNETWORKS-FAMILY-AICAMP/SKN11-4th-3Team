@@ -110,7 +110,8 @@
 
 
 ## 5. WBS
-![image](https://github.com/user-attachments/assets/772721da-fec8-46a9-ab82-50f22a8e44fc)
+![image](https://github.com/user-attachments/assets/149f750d-fe87-44b8-8a67-7fc9278ac9ec)
+
 
 
 
