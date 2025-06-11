@@ -105,7 +105,7 @@
 
 
 ## 4. 시스템 구성도
-![4th (1)](https://github.com/user-attachments/assets/6ce0ae39-bf5b-4d25-b15b-421bd867a769)
+![4th (3)](https://github.com/user-attachments/assets/63ff2e20-626f-4fab-b37b-8bf679ac70b9)
 
 
 
