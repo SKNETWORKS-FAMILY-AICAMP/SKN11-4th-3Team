@@ -101,11 +101,12 @@
 | **Vector DB**       | ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge) |
 | **LLM Model**       | ![gpt-3.5-turbo_fine_tune](https://img.shields.io/badge/gpt--3.5-4B91FF?style=for-the-badge&logo=openai&logoColor=white) <img src="https://img.shields.io/badge/EXAONE-A50034?style=for-the-badge&logo=LG&logoColor=white"> |
 |   **Framework**   | ![Django](https://camo.githubusercontent.com/4c4a57a11a83f99eafb6eaaaaf65ea43e0fc446fccbf8533aac7e9be1067aaf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666f722d7468652d6261646765266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465) <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">    |
-| **Collaboration Tool** | <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">  <br>  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+| **Collaboration Tool** |  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br>  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">  
 
 
 ## 4. 시스템 구성도
-![4th (3)](https://github.com/user-attachments/assets/63ff2e20-626f-4fab-b37b-8bf679ac70b9)
+![4th (6)](https://github.com/user-attachments/assets/5d219848-b819-4504-b66f-7157bb4ed48d)
+
 
 
 
