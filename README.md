@@ -118,7 +118,8 @@
 
 
 ## 6. 요구사항 명세서
-![](image/requirements.png)
+![image](https://github.com/user-attachments/assets/08c2ed92-1f0a-4c72-89f0-722362c3bafd)
+
 
 
 ## 7. 화면설계서
